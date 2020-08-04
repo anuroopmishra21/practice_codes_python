@@ -1,1 +1,1 @@
-# This is practice repository for python
+Practice repository for python
