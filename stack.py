@@ -1,4 +1,3 @@
-#code for stack
 m=[]
 while True:
     n=int(input("Enter 1 to push, 2 to pop , anything else to abort "))
