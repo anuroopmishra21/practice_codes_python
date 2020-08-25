@@ -1,4 +1,3 @@
-# searching an element in the list using binary search
 l=list(map(int, input("Enter the list ").split(" ")))
 n=int(input("Enter the element to be searched "))
 c=0
